@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Belajar Python
 - Html, CSS, PHP, JAVA
 - Belajar AI
+Bismillah
